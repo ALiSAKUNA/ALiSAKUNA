@@ -58,3 +58,15 @@
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisakuna" alt="alisakuna" /></a> </p>
+
+
+<div align="center">
+
+### ⚙️ The Tech Stack Visualized
+
+<p>These are the tools I mastered in my journey to glory:</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,docker,aws,kubernetes,mongodb,postgresql,tailwind,vscode" />
+<br>
+<img src="https://skillicons.dev/icons?i=go,django,fastapi,vue,redis,linux,bash,git,githubactions" />
+
+</div>
